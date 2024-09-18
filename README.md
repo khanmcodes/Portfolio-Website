@@ -4,9 +4,8 @@ Welcome to my portfolio website repository. This project showcases my skills in 
 
 ## Key Features
 
-- **Responsive Design**: Optimized for all devices (desktops, tablets, and mobile).
 - **Modern UI/UX**: Clean, minimalistic design with intuitive navigation.
-- **Projects Showcase**: My coding, music, and design work are featured in the portfolio section.
+- **Projects Showcase**: My previous projects including Playpals, Banking System and Home Automation App are featured in the projects section.
 - **Contact Form**: A simple contact form that connects users to me directly.
 
 ---
@@ -15,30 +14,24 @@ Welcome to my portfolio website repository. This project showcases my skills in 
 
 - HTML5
 - CSS3
-- JavaScript
-- Bootstrap
-- [Your Hosting Platform] (e.g., GitHub Pages, Netlify, etc.)
-
+  
 ---
 
 ## Screenshots
 
 ### Home Page
-![Home Page](Screenshots/Home_Page.png)
+![Home Page](Screenshots/Home%20Page.png)
+
+### Projects Page
+![Projects Page](Screenshots/Projects%20Page.png)
 
 ### About Me Page
-![About Me Page](Screenshots/about-me.png)
-
-### Portfolio Page
-![Portfolio Page](Screenshots/portfolio-page.png)
+![About Me Page 1](Screenshots/About%20Page%201.png)
+![About Me Page 2](Screenshots/About%20Page%202.png)
+![About Me Page 3](Screenshots/About%20Page%203.png)
+![About Me Page 4](Screenshots/About%20Page%204.png)
 
 ### Contact Page
-![Contact Page](Screenshots/contact-page.png)
+![Contact Page](Screenshots/Contact%20Page.png)
 
 ---
-
-## How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
